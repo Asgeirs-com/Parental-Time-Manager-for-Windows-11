@@ -53,3 +53,6 @@ Bypasses restricted or deprecated command-line binaries (`msg.exe`, `logoff.exe`
 
 - **File System Lockdown:** Configuration and usage data residing in `$env:ProgramData\ParentalTimeManager` are locked down using Windows Access Control Lists (`icacls`). 
 - **Privilege Separation:** Standard user accounts (children) hold **Read/Execute-only** rights, preventing them from modifying `Settings.json` to extend limits or tampering with `Usage.json`. Only the `SYSTEM` context and local Administrators possess write access.
+
+  ## Background
+  ** Made with the great aid mainly of Google Gemini FlashLite 3.5, and som initial designs with with ChatGPT and Mistral.
