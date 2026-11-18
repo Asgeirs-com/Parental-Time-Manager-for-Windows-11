@@ -1,4 +1,4 @@
-\# Parental Time Manager
+# Parental Time Manager
 
 
 
@@ -6,21 +6,21 @@ Windows 11 parental screen-time manager.
 
 
 
-\## Requirements
+## Requirements
 
 
 
-\- Windows 11
+- Windows 11
 
-\- Windows PowerShell 5.1
+- Windows PowerShell 5.1
 
-\- Administrator account
+- Administrator account
 
-\- Local Windows user accounts
+- Local Windows user accounts
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -46,7 +46,7 @@ Windows 11 parental screen-time manager.
 
 
 
-\## Default allowance
+## Default allowance
 
 
 
@@ -54,21 +54,21 @@ Windows 11 parental screen-time manager.
 
 
 
-\## Administrator controls
+## Administrator controls
 
 
 
-\- Grant extra time.
+- Grant extra time.
 
-\- Suspend restrictions.
+- Suspend restrictions.
 
-\- Restore restrictions.
+- Restore restrictions.
 
-\- Reset usage.
+- Reset usage.
 
 
 
-\## DEBUG locations:
+## DEBUG locations:
 C:\\ProgramData\\ParentalTimeManager\\Logs\\Monitor.log
 ## Uninstallation
 
@@ -82,7 +82,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\Uninstall.ps1
 
 
 
-\## Data location
+## Data location
 
 
 
@@ -90,7 +90,7 @@ C:\\ProgramData\\ParentalTimeManager
 
 
 
-\## Logs
+## Logs
 
 
 
@@ -98,7 +98,7 @@ C:\\ProgramData\\ParentalTimeManager\\Logs
 
 
 
-\## Important
+## Important
 
 
 
